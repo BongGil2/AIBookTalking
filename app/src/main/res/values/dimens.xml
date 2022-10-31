@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Font Size -->
+    <dimen name="common_text_size_6">6sp</dimen>
+    <dimen name="common_text_size_9">9sp</dimen>
+    <dimen name="common_text_size_10">10sp</dimen>
+    <dimen name="common_text_size_11">11sp</dimen>
+    <dimen name="common_text_size_12">12sp</dimen>
+    <dimen name="common_text_size_13">13sp</dimen>
+    <dimen name="common_text_size_14">14sp</dimen>
+    <dimen name="common_text_size_15">15sp</dimen>
+    <dimen name="common_text_size_16">16sp</dimen>
+    <dimen name="common_text_size_17">17sp</dimen>
+    <dimen name="common_text_size_18">18sp</dimen>
+    <dimen name="common_text_size_20">20sp</dimen>
+    <dimen name="common_text_size_24">24sp</dimen>
+    <dimen name="common_text_size_26">26sp</dimen>
+    <dimen name="common_text_size_28">28sp</dimen>
+    <dimen name="common_text_size_30">30sp</dimen>
+
+    <!-- Margin -->
+    <dimen name="common_margin_1">1dp</dimen>
+    <dimen name="common_margin_2">2dp</dimen>
+    <dimen name="common_margin_3">3dp</dimen>
+    <dimen name="common_margin_4">4dp</dimen>
+    <dimen name="common_margin_5">5dp</dimen>
+    <dimen name="common_margin_6">6dp</dimen>
+    <dimen name="common_margin_7">7dp</dimen>
+    <dimen name="common_margin_8">8dp</dimen>
+    <dimen name="common_margin_9">9dp</dimen>
+    <dimen name="common_margin_10">10dp</dimen>
+    <dimen name="common_margin_11">11dp</dimen>
+    <dimen name="common_margin_12">12dp</dimen>
+    <dimen name="common_margin_13">13dp</dimen>
+    <dimen name="common_margin_14">14dp</dimen>
+    <dimen name="common_margin_15">15dp</dimen>
+    <dimen name="common_margin_16">16dp</dimen>
+    <dimen name="common_margin_17">17dp</dimen>
+    <dimen name="common_margin_18">18dp</dimen>
+    <dimen name="common_margin_19">19dp</dimen>
+    <dimen name="common_margin_20">20dp</dimen>
+    <dimen name="common_margin_21">21dp</dimen>
+    <dimen name="common_margin_22">22dp</dimen>
+    <dimen name="common_margin_23">23dp</dimen>
+    <dimen name="common_margin_24">24dp</dimen>
+    <dimen name="common_margin_25">25dp</dimen>
+    <dimen name="common_margin_26">26dp</dimen>
+    <dimen name="common_margin_27">27dp</dimen>
+    <dimen name="common_margin_28">28dp</dimen>
+    <dimen name="common_margin_29">29dp</dimen>
+    <dimen name="common_margin_30">30dp</dimen>
+    <dimen name="common_margin_31">31dp</dimen>
+    <dimen name="common_margin_32">32dp</dimen>
+    <dimen name="common_margin_34">34dp</dimen>
+    <dimen name="common_margin_36">36dp</dimen>
+    <dimen name="common_margin_38">38dp</dimen>
+    <dimen name="common_margin_40">40dp</dimen>
+    <dimen name="common_margin_45">45dp</dimen>
+    <dimen name="common_margin_50">50dp</dimen>
+    <dimen name="common_margin_55">55dp</dimen>
+    <dimen name="common_margin_60">60dp</dimen>
+    <dimen name="common_margin_130">130dp</dimen>
+    <dimen name="common_margin_150">150dp</dimen>
+
+
+    <!-- padding -->
+    <dimen name="common_padding_3">3dp</dimen>
+    <dimen name="common_padding_5">5dp</dimen>
+    <dimen name="common_padding_6">6dp</dimen>
+    <dimen name="common_padding_7">7dp</dimen>
+    <dimen name="common_padding_8">8dp</dimen>
+    <dimen name="common_padding_9">9dp</dimen>
+    <dimen name="common_padding_10">10dp</dimen>
+    <dimen name="common_padding_11">11dp</dimen>
+    <dimen name="common_padding_13">13dp</dimen>
+    <dimen name="common_padding_14">14dp</dimen>
+    <dimen name="common_padding_15">15dp</dimen>
+    <dimen name="common_padding_20">20dp</dimen>
+    <dimen name="common_padding_25">25dp</dimen>
+    <dimen name="common_padding_30">30dp</dimen>
+    <dimen name="common_padding_40">40dp</dimen>
+    <dimen name="common_padding_50">50dp</dimen>
+    <dimen name="common_padding_100">100dp</dimen>
+
+    <!-- Common -->
+    <dimen name="common_edit_button_size">100dp</dimen>
+    <dimen name="common_button_radius_10">10dp</dimen>
+    <dimen name="common_button_radius_20">20dp</dimen>
+    <dimen name="common_button_radius_50">50dp</dimen>
+    <dimen name="common_edit_view_height">40dp</dimen>
+    <dimen name="common_button_height">46dp</dimen>
+    <dimen name="common_popup_width">320dp</dimen>
+    <dimen name="common_profile_width">70dp</dimen>
+    <dimen name="common_profile_height">70dp</dimen>
+    <dimen name="common_background_width">750dp</dimen>
+    <dimen name="common_viewpager_dot">4dp</dimen>
+    <dimen name="common_banner_width">165dp</dimen>
+    <dimen name="common_banner_height">230dp</dimen>
+
+
+</resources>
